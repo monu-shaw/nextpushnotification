@@ -47,7 +47,7 @@ export default function Home() {
 
       <div className={styles.grid}>
         <a
-          href="https://blog.desidevs.site/nextjs-push-notification"
+          href="https://blog.desidevs.site/how-to-send-push-notifications-with-nextjs-and-fcm"
           className={styles.card}
           target="_blank"
           rel="noopener noreferrer"
